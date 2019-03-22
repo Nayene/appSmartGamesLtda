@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/slide2"
+        />
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="15px"
+            >
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="15dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/nintendo2"
+                />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="5dp"
+                android:layout_marginTop="20px"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ARMS"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Escolha um campeão de luta mundial, prepare sua própria combinação de braços extensíveis e use uma mistura de pressionamentos de botões e movimentos rápidos para realmente elevar a luta ao seu oponente. "/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ver loja "
+                    android:layout_gravity="center"
+                    android:textSize="13dp"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="15px"
+        >
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="15dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/nintendo2"
+            />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="5dp"
+            android:layout_marginTop="20px"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ARMS"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Escolha um campeão de luta mundial, prepare sua própria combinação de braços extensíveis e use uma mistura de pressionamentos de botões e movimentos rápidos para realmente elevar a luta ao seu oponente. "/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ver loja "
+                android:layout_gravity="center"
+                android:textSize="13dp"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="15px"
+        >
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="15dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/nintendo2"
+            />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="5dp"
+            android:layout_marginTop="20px"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ARMS"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Escolha um campeão de luta mundial, prepare sua própria combinação de braços extensíveis e use uma mistura de pressionamentos de botões e movimentos rápidos para realmente elevar a luta ao seu oponente. "/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ver loja "
+                android:layout_gravity="center"
+                android:textSize="13dp"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="15px"
+        >
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="15dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/nintendo2"
+            />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="5dp"
+            android:layout_marginTop="20px"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ARMS"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Escolha um campeão de luta mundial, prepare sua própria combinação de braços extensíveis e use uma mistura de pressionamentos de botões e movimentos rápidos para realmente elevar a luta ao seu oponente. "/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ver loja "
+                android:layout_gravity="center"
+                android:textSize="13dp"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>
